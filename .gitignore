@@ -14,6 +14,12 @@ hello_world.html
 
 old_outputs/
 
-Clean13Products/
+Clean13products/
 
 Data Catalog - OAE.xlsx
+
+exp_outputs/
+
+__pycache__/
+
+*.zip
