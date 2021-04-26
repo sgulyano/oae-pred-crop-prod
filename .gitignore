@@ -11,3 +11,15 @@ Untitled.ipynb
 hello_world.html
 
 .ipynb_checkpoints/
+
+old_outputs/
+
+Clean13products/
+
+Data Catalog - OAE.xlsx
+
+exp_outputs/
+
+__pycache__/
+
+*.zip
